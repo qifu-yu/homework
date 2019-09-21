@@ -1,2 +1,2 @@
 # -
-作业三详解博客见https://blog.csdn.net/yuqibaba/article/details/101106974
+大三上3d游戏编程与设计作业
